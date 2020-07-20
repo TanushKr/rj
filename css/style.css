@@ -50,7 +50,7 @@ body {
     
 }
 .navbar-brand  {
-    font-family: 'Allerdisplay';
+    font-family: Allerdisplay;
     font-size: 2rem;
     text-transform: capitalize;
     margin-left: 20px;
@@ -94,9 +94,7 @@ button:focus{
 } 
 /* Landing Page */
 .home-inner{
-  background-image: url(/img/college.png); 
-  background-color:#f7d212;
-  
+  background-image: url(img/colllege.jpg);
 }
 .grad-bg{
     height: 100vh;
@@ -358,9 +356,7 @@ h6{
   width: 100%;
   
 }
-.fixed{
-  background-image: url(/img/college.png);
-}
+
 .overlay{
   width: inherit;
   height: inherit;
@@ -803,6 +799,7 @@ h6{
   font-size: 41px;
 }
 }
+
 
 /* // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
