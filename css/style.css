@@ -369,6 +369,12 @@ h6{
 .maintext{
   font-size: 100px;
 }
+.gif img {
+  margin: 0 auto;
+  padding: 15px;
+  width: 70%;
+  box-shadow: 0 41.8px 33.4px rgba(0, 0, 0, 0.086);
+}
 /* h3{
   font-size: 100px;
   color: white;
