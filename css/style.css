@@ -94,7 +94,7 @@ button:focus{
 } 
 /* Landing Page */
 .home-inner{
-  background-image: url(img/colllege.jpg);
+  background-image: url(../img/colllege.jpg);
 }
 .grad-bg{
     height: 100vh;
