@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200;1,300;1,400&display=swap');
 /* font-family: 'Josefin Sans', sans-serif;
 font-family: 'Open Sans', sans-serif; */
 /* font-family: 'Montserrat', sans-serif; */
@@ -580,6 +581,25 @@ h6{
   left: -14px;
   /* border: 8px solid white; */
 }
+.wish{
+  color: white;
+  width: 100%;
+  /* max-width: 1100px;
+  width: 100%;
+  height:auto; */
+}
+.wish h2 {
+  font-family: 'montserrat';
+  font-weight: 300;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+.wish p{
+  font-family: 'montserrat';
+  font-weight: 200;
+  font-style: italic;
+}
 @media (max-width :768px)
 {
     .navbar {
@@ -801,6 +821,9 @@ h6{
 }
 .timeline-header__title{
   font-size: 41px;
+}
+.wish h2{
+  font-size: 1.2rem;
 }
 }
 
