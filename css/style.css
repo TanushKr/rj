@@ -94,7 +94,7 @@ button:focus{
 } 
 /* Landing Page */
 .home-inner{
-  background-image: url(img/colllege.jpg);
+  background-image: url(../img/colllege.jpg);
 }
 .grad-bg{
     height: 100vh;
@@ -763,6 +763,10 @@ h6{
     font-weight: 500;
     font-size: 80px !important;
     text-shadow: 8px 8px 10px rgba(0, 0, 0, 0.8);
+    position: relative;
+    top: 100px;
+    left: 0px;
+    bottom: 0px;
   }
   .hbdn-nickila{
     position: relative;
